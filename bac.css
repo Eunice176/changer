@@ -1,0 +1,26 @@
+div.bac{
+	height: 150px;
+	width: 200px;
+	border: 4px double cornflowerblue;
+	background: url("move.jpg") no-repeat 50% 50%;
+	background-size: 100px 100px;
+
+}
+div.contain{
+	height: 150px;
+	width: 200px;
+	border: 4px double cornflowerblue;
+	background:  url("move.jpg") no-repeat 50% 50%;;
+	background-size: contain;
+
+
+}
+div.cover{
+	height: 150px;
+	width: 200px;
+	border: 4px double cornflowerblue;
+	background:  url("move.jpg") no-repeat 50% 50%;;
+	background-size: cover  ;
+
+
+}
